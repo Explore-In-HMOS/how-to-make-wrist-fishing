@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # How to Make Wrist Fishing on HarmonyOS
 This sample demonstrates how to use the **accelerometer** and **gyroscope** of a HarmonyOS wearable to detect a quick upward wrist pull, and builds a fishing reaction game on top of it with a **Canvas** scene, a phase state machine and vibration feedback
